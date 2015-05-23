@@ -6,13 +6,13 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-JB Accordion is a Responsive super Multi Color and animated Conted plugin for your wordpress website.
+JB Accordion is a Responsive super Multi Color and Animated Conted plugin for your wordpress theme.
 
 == Description ==
 
 This plugin will enable Accordion in your wordpress theme. You can embed Accordion via shortcode in everywhere you want, even in theme files. 
 
-Wanna see how it works? Click here: http://jobairbd.com/wpplugins/jb-accordion/
+Demo Click here: http://jobairbd.com/wpplugins/jb-accordion/
 
 == Installation ==
 
