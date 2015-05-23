@@ -18,12 +18,12 @@ Accordions by http://jobairbd.com
 
 Plugin Features
 
-*Fully responsive and mobile ready.
-*Unlimited accordions anywhere.
-*Use via short-code.
-*Different Theme color.
-*Easy input field for accordions content.
-*Animated accordions content.
+* Fully responsive and mobile ready.
+* Unlimited accordions anywhere.
+* Use via short-code.
+* Different Theme color.
+* Easy input field for accordions content.
+* Animated accordions content.
 
 == Installation ==
 
