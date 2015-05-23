@@ -14,6 +14,17 @@ This plugin will enable Accordion in your wordpress theme. You can embed Accordi
 
 Demo Click here: http://jobairbd.com/wpplugins/jb-accordion/
 
+Accordions by http://jobairbd.com
+
+Plugin Features
+
+*Fully responsive and mobile ready.
+*Unlimited accordions anywhere.
+*Use via short-code.
+*Different Theme color.
+*Easy input field for accordions content.
+*Animated accordions content.
+
 == Installation ==
 
 This section describes how to install the plugin and get it working.
